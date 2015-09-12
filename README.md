@@ -25,3 +25,6 @@ Install-Package Boleto.Net
 
 Para informações sobre o projeto e bancos implementados, consulte o nosso [Wiki](https://github.com/BoletoNet/boletonet/wiki).
 
+
+
+[![Join the chat at https://gitter.im/renattomachado/boletonet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/renattomachado/boletonet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
